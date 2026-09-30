@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
