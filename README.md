@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |
