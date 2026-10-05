@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
