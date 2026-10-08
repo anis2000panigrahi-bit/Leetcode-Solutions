@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
 |  |
