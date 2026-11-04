@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -206,8 +211,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
