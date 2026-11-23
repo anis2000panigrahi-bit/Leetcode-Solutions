@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 ## Counting
 |  |
 | ------- |
@@ -296,11 +297,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
