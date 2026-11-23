@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 ## Counting
 |  |
 | ------- |
@@ -298,12 +299,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
