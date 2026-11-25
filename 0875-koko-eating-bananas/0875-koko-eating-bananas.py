@@ -3,7 +3,7 @@ class Solution(object):
         left = 1
         right = max(piles)
 
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
 
             hours = 0
@@ -12,7 +12,7 @@ class Solution(object):
                 hours += (pile + mid - 1) // mid
 
             if hours <= h:
-                right = mid
+                right = mid - 1
             else:
                 left = mid + 1
 
