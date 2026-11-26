@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-last-stone-weight](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Bit Manipulation
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
 |  |
@@ -347,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
