@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
