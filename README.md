@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
