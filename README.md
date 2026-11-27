@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-last-stone-weight](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anis2000panigrahi-bit/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
